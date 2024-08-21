@@ -103,7 +103,7 @@ hsh main.c shell.c test_ls_2
 $
 ```
 #### GitHub repository: `simple_shell`
-## Tables
+## Tasks
 
 | Task| Description |
 | ------ | ----------- |
