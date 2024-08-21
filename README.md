@@ -1,4 +1,4 @@
-# 0x16. C - Simple Shell
+# 0x16. C - Simple Shell Project
 ## Building a simple UNIX command interpreter using "C" language.
 **Requirements**
 + Allowed editors: vi, vim, emacs.
